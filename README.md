@@ -1,12 +1,15 @@
 ### Hi there 👋
 My name is **Mihai**, I am a student in Canada looking for opportunies to work in web development and programming.
 
-🔭 Experience
-- ⚡ <a href="https://northjerky.com/products/wholesale-club">North Jerky</a> - Jan 2021 ~ Current
-- ⚡ Royal Bank of Canada: Software Developer Internship - Jan 2019 ~ Dec 2019
-- ⚡ Centennial College: Student Researcher - Oct 2018 ~ Dec 2018
+🔭 <h1>Experience</h1>
 
+- ⚡ <a href="https://www.hoppier.com/">Hoppier</a>: Data Entry - Jan 2021 ~ Present
+- ⚡ <a href="https://northjerky.com/products/wholesale-club">North Jerky</a>: HTML & CSS Coding on a Shopify store - Jan 2021 ~ Current
 
+More about me:
+
+🧠 I am a 15 year old high school student in Canada.
+🧑‍💻 I am well versed in HTML & CSS and am currently learning JS and Python
 
 <!--
 **mihai8/mihai8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
