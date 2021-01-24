@@ -12,6 +12,7 @@ More about me:
 - 🏫 I am a 15 year old high school student in Canada. <br>
 - 🖥️ I am well versed in HTML & CSS and am currently learning JS and Python. <br>
 - 🧠 I love coding, programming, solving problems and am eager to learn.
+- 🌐 I am bilingual, I can fluently read and write in English & French.
 
 To contact me:
 
