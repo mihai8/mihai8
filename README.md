@@ -2,7 +2,7 @@
 My name is **Mihai**, I am a student in Canada looking for opportunies to work in web development and programming.
 
 🔭 Experience
-- ⚡ [https://northjerky.com/products/wholesale-club] - Jan 2021 ~ Current
+- ⚡ <a href="https://northjerky.com/products/wholesale-club">North Jerky</a> - Jan 2021 ~ Current
 - ⚡ Royal Bank of Canada: Software Developer Internship - Jan 2019 ~ Dec 2019
 - ⚡ Centennial College: Student Researcher - Oct 2018 ~ Dec 2018
 
