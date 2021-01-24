@@ -12,6 +12,10 @@ More about me:
 - 🖥️ I am well versed in HTML & CSS and am currently learning JS and Python. <br>
 - 🧠 I love coding, programming, solving problems and am eager to learn.
 
+To contact me:
+
+- You can reach me via mailto:jalbu.mihai@gmail.com
+
 <!--
 **mihai8/mihai8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
