@@ -8,7 +8,7 @@ My name is **Mihai**, I am a student in Canada looking for opportunies to work i
 
 More about me:
 
-🧠 I am a 15 year old high school student in Canada.
+🧠 I am a 15 year old high school student in Canada. <br>
 🧑‍💻 I am well versed in HTML & CSS and am currently learning JS and Python
 
 <!--
