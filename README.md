@@ -4,7 +4,7 @@ My name is **Mihai**, I am a student in Canada looking for opportunies to work i
 <h3>🔭 Experience</h3>
 
 - ⚡ <a href="https://www.hoppier.com/">Hoppier</a>: Data Entry - Jan 2021 ~ Present
-- ⚡ <a href="https://northjerky.com/products/wholesale-club">North Jerky</a>: HTML & CSS Coding on a Shopify store - Jan 2021 ~ Current
+- ⚡ <a href="https://northjerky.com/products/wholesale-club">North Jerky</a>: HTML & CSS Coding on a Shopify store - Jan 2021 ~ Present
 
 More about me:
 
