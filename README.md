@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is **Mihai**, I am a student in Canada looking for opportunies to work in web development and programming.
+
+🔭 Experience
+- ⚡ https://northjerky.com/products/wholesale-club - Jan 2021 ~ Current
+- ⚡ Royal Bank of Canada: Software Developer Internship - Jan 2019 ~ Dec 2019
+- ⚡ Centennial College: Student Researcher - Oct 2018 ~ Dec 2018
+
+
 
 <!--
 **mihai8/mihai8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
