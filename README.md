@@ -9,7 +9,7 @@ My name is **Mihai**, I am a student in Canada looking for opportunies to work i
 More about me:
 
 🧠 I am a 15 year old high school student in Canada. <br>
-🧑‍💻 I am well versed in HTML & CSS and am currently learning JS and Python
+🖥️ I am well versed in HTML & CSS and am currently learning JS and Python
 
 <!--
 **mihai8/mihai8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
