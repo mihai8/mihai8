@@ -16,7 +16,7 @@ More about me:
 
 To contact me:
 
-- You can reach me via <a href="mailto:jalbu.mihai@gmail.com">e-mail</a>
+- You can reach me via <a href="mailto:jalbumihai@gmail.com">e-mail</a>
 
 <!--
 **mihai8/mihai8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
