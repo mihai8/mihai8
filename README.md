@@ -1,15 +1,15 @@
 ### Hi there 👋
-My name is **Mihai**, I am a student in Canada looking for opportunies to work in web development and programming.
+My name is **Mihai**, I am a student in Canada looking for opportunies to work in web development, programming or in the finance realm.
 
 <h3>🔭 Experience</h3>
 
-- ⚡ <a href="https://www.hoppier.com/">Hoppier</a>: Data Entry - Jan 2021 ~ Present
+- ⚡ <a href="https://www.hoppier.com/">Hoppier</a>: Data Entry - Jan 2021 ~ March 2022
 - ⚡ <a href="https://northjerky.com/products/wholesale-club">North Jerky</a>: HTML & CSS Coding on a Shopify store - Dec 2020 ~ Present
 - ⚡ <a href="https://mihai8.github.io/race/">Race Template</a>: An HTML & CSS site I built to practice my skills - July 2020 ~ August 2020
 
 More about me:
 
-- 🏫 I am a 16 year old high school student in Canada. <br>
+- 🏫 I am a 17 year old high school student in Canada. <br>
 - 🖥️ I am well versed in HTML & CSS and am currently learning JS and Python. <br>
 - 🧠 I love coding, programming, solving problems and am eager to learn.
 - 🌐 I am bilingual, I can fluently read and write in English & French.
